@@ -5,7 +5,7 @@
 Soy Estudiante de Ing. Matemático de la gloriosa Universidad Central Del Ecuador, apasionado por el diseño y desarrollo web
 
 ## Skills:
-
+![HTML](https://img.shields.io/badge/HTML-lightblue?style=for-the-badge&logo=BEM&logoColor=black&labelColor=white)<br>
 ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=black&labelColor=white)<br>
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=black&labelColor=white)<br>
 ![SASS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=SASS&logoColor=black&labelColor=white)<br>
